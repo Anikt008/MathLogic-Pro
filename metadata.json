@@ -1,0 +1,5 @@
+{
+  "name": "MathLogic Pro",
+  "description": "A precise mathematical reasoning assistant that provides formal proofs, machine-readable JSON logic, and Python/SymPy verification code.",
+  "requestFramePermissions": []
+}
